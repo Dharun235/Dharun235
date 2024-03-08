@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/Dharun235/Dharun235/blob/main/banner.png" /> 
 
 <p align="center">
-  <a href="https://linkedin.com/in/dharunkumar20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dharunkumar-blue?style=for-the-badge&logo=linkedin" alt="DHARUNKUMAR" /></a>
+  <a href="https://linkedin.com/in/dharun-kumar20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dharunkumar-blue?style=for-the-badge&logo=linkedin" alt="DHARUNKUMAR" /></a>
   <a href="https://github.com/dharun235" target="_blank"><img src="https://img.shields.io/github/followers/Dharun235?logo=GitHub&style=for-the-badge" alt="DHARUNKUMAR" /></a>
   <a href="https://github.com/dharun235" target="_blank"><img src="https://img.shields.io/github/stars/Dharun235?logo=github&style=for-the-badge" alt="DHARUNKUMAR" /></a>
 </p>
