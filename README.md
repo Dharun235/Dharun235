@@ -8,7 +8,7 @@
 
 <br><br>
 <h1 align="center">DHARUN KUMAR 🤖</h1>
-<h3 align="center">A Sustainability-focussed Roboticist🌱</h3>
+<h3 align="center">Roboticist and AI developer🤖</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dharun235&label=Profile+views%20views&color=brightgreen&style=plastic" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshetp" alt="akshetp" /></a> </p> -->
@@ -25,7 +25,7 @@ Feel free to contact me through mail or linkedin.
 
 - 📫 Reach me **dharun.official.01@gmail.com**
 
-- 📄 [View my Resume (Last Updated - 28th February 2024)](https://github.com/Dharun235/Dharun235/blob/main/Dharun%20resume.pdf)
+- 📄 [View my Resume (Last Updated - 7th August 2024)](https://github.com/Dharun235/Dharun235/blob/main/Dharun%20resume.pdf)
 - <a href="https://github.com/Dharun235/Dharun235/blob/main/Dharun%20resume.pdf" download>
   <img src="https://img.shields.io/badge/-Download%20My%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white" alt="Download My Resume">
 </a>
