@@ -1,10 +1,4 @@
 
-<p align="center">
-  <a href="https://linkedin.com/in/dharun-kumar20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dharunkumar-blue?style=for-the-badge&logo=linkedin" alt="DHARUNKUMAR" /></a>
-  <a href="https://github.com/dharun235" target="_blank"><img src="https://img.shields.io/github/followers/Dharun235?logo=GitHub&style=for-the-badge" alt="DHARUNKUMAR" /></a>
-  <a href="https://github.com/dharun235" target="_blank"><img src="https://img.shields.io/github/stars/Dharun235?logo=github&style=for-the-badge" alt="DHARUNKUMAR" /></a>
-</p>
-
 <br><br>
 <h1 align="center">DHARUN KUMAR 🤖</h1>
 <h3 align="center">Roboticist and AI developer🤖</h3>
