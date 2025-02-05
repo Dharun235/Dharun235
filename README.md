@@ -2,12 +2,7 @@
 <br><br>
 <h1 align="center">DHARUN KUMAR 🤖</h1>
 <h3 align="center">Roboticist and AI developer🤖</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dharun235&label=Profile+views%20views&color=brightgreen&style=plastic" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshetp" alt="akshetp" /></a> </p> -->
-
-
-<!-- <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p> -->
 # 👋 &nbsp;Hi there
 
 🚀 **Robotics & AI Enthusiast | Builder | Innovator**  
