@@ -17,7 +17,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p> -->
 # 👋 &nbsp;Hi there
 
-I'm a roboticist currently in India. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. I'm genuinely fascinated by technology, like a kid in a candy store. Challenges motivate me, and learning tech is like tending a garden. Collaboration is my thing, especially in robotics and AI, where I want to make a real impact on simplifying and improving life. 🌟🤖🌱
+I'm a robotics enthusiast currently in Sweden. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. I'm genuinely fascinated by technology, like a kid in a candy store. Challenges motivate me, and learning tech is like tending a garden. Collaboration is my thing, especially in robotics and AI, where I want to make a real impact on simplifying and improving life. 🌟🤖🌱
 
 Feel free to contact me through mail or linkedin.
 
