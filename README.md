@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://github.com/Dharun235/Dharun235/blob/main/banner.png" /> 
 
 <p align="center">
   <a href="https://linkedin.com/in/dharun-kumar20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dharunkumar-blue?style=for-the-badge&logo=linkedin" alt="DHARUNKUMAR" /></a>
