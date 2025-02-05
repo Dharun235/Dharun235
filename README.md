@@ -1,7 +1,6 @@
 
 <br><br>
 <h1 align="center">DHARUN KUMAR 🤖</h1>
-<h3 align="center">Roboticist and AI enthusiast🤖</h3>
 
 # 👋 &nbsp;Hi there
 
