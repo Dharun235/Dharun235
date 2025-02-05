@@ -16,18 +16,18 @@
 <!-- <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p> -->
 # 👋 &nbsp;Hi there
 
-I'm a robotics enthusiast currently in Sweden. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. I'm genuinely fascinated by technology, like a kid in a candy store. Challenges motivate me, and learning tech is like tending a garden. Collaboration is my thing, especially in robotics and AI, where I want to make a real impact on simplifying and improving life. 🌟🤖🌱
+🚀 **Robotics & AI Enthusiast | Builder | Innovator**  
 
-Feel free to contact me through mail or linkedin.
+I'm a **robotics enthusiast** passionate about **creating technology that drives real change**. I love solving unique problems through **open-source projects**, using **AI and robotics** to push boundaries.  
 
-- 👨‍💻 All of my projects are available at (under development)
+Collaboration excites me, where I believe the right innovations can **redefine industries and empower people**. If you're working on something exciting, let's connect and build something that matters!  
 
-- 📫 Reach me **dharun.official.01@gmail.com**
+🔹 **Focus Areas:** Robotics | AI | Education | Open Source  
+🔹 **Cause:** Advancing **education, science, and technology** for a better future  
 
-- 📄 [View my Resume (Last Updated - 7th August 2024)](https://github.com/Dharun235/Dharun235/blob/main/Dharun%20resume.pdf)
-- <a href="https://github.com/Dharun235/Dharun235/blob/main/Dharun%20resume.pdf" download>
-  <img src="https://img.shields.io/badge/-Download%20My%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white" alt="Download My Resume">
-</a>
+🤖🌍🚀
+Feel free to contact me through Linkedin[https://www.linkedin.com/in/dharun-kumar20/] or mail[dharun.official.01@gmail.com]
+
 <br><br>
 
 # 🧰 &nbsp;My toolbox
