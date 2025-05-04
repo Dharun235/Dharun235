@@ -37,7 +37,7 @@ I'm always open to connecting, collaborating, or just chatting about tech, AI, a
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dharun-kumar20/)  
 - 📧 [Email](mailto:dharun.official.01@gmail.com)  
-- 🐦 [X (Twitter)](https://x.com/dharun369)
+- ✖️ [X (Twitter)](https://x.com/dharun369)
 <br><br>
 
 ---
