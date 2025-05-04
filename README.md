@@ -2,16 +2,23 @@
 <br><br>
 <h1 align="center">DHARUN KUMAR 🤖</h1>
 
-# 👋 &nbsp;Hi there
+# 👋 Hi, I’m Dharun Kumar
 
-🚀 **Robotics & AI Enthusiast | Builder | Innovator**  
+🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
+⚙️ Exploring the future of **Autonomous Systems**, **AI**, and **Robotics**
 
-I'm a **robotics enthusiast** passionate about **creating technology that drives real change**. I love solving unique problems through **open-source projects**, using **AI and robotics** to push boundaries.  
+- 🤖 Research Assistant @ Chalmers – Human-Machine Interaction & Robotic Systems  
+- 🚗 Experience with AMR robots during internship & open-source AI contributions  
+- 💡 EdTech startup idea selected by **Microsoft for Startups**
 
-Collaboration excites me, where I believe the right innovations can **redefine industries and empower people**. If you're working on something exciting, let's connect and build something that matters!  
+## 🔧 Skills
+`ROS` • `Python` • `C++` • `Embedded Systems` • `Signal Processing` • `Control Systems`
 
-🔹 **Focus Areas:** Robotics | AI | Education | Open Source  
-🔹 **Cause:** Advancing **education, science, and technology** for a better future  
+## 🔍 Interests
+- Autonomous Systems & AI-driven Automation  
+- Embedded & Electronic Systems  
+- Industrial Automation & Smart Tech  
+- Education Accessibility through EdTech
 
 🤖🌍🚀
 Feel free to contact me through Linkedin[https://www.linkedin.com/in/dharun-kumar20/] or mail[dharun.official.01@gmail.com]
