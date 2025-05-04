@@ -3,23 +3,21 @@
 # 👋 Hi, I’m Dharun Kumar
 
 🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
-⚙️ Exploring the future of **Autonomous Systems**, **AI**, and **Robotics**
 
+## 🔍 Interests
+- Autonomous Systems and EdTech
+
+## Experience 
 - 🤖 Research Assistant @ Chalmers – Human-Machine Interaction & Robotic Systems  
-- 🚗 Experience with robots - AMR, insectoid, humanoid during internship. RA, projects & open-source AI contributions  
+- 🚗 Experience with robots - AMR, insectoid, humanoid during internship, RA, projects & open-source AI contributions  
 - 💡 EdTech startup idea selected by **Microsoft for Startups**
 
 ## 🔧 Skills
 `ROS` • `Python` • `C++` • `Embedded Systems` • `Signal Processing` • `Control Systems`
 
-## 🔍 Interests
-- Autonomous Systems & AI-driven Automation  
-- Embedded & Electronic Systems  
-- Industrial Automation & Smart Tech  
-- Education Accessibility through EdTech
 
 🤖🌍🚀
-Feel free to contact me through Linkedin[https://www.linkedin.com/in/dharun-kumar20/] or mail[dharun.official.01@gmail.com]
+Feel free to contact me through Linkedin[https://www.linkedin.com/in/dharun-kumar20/],  mail[dharun.official.01@gmail.com], X[https://x.com/dharun369]
 
 <br><br>
 
