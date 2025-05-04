@@ -1,7 +1,5 @@
 
 <br><br>
-<h1 align="center">DHARUN KUMAR 🤖</h1>
-
 # 👋 Hi, I’m Dharun Kumar
 
 🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
