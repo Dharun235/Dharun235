@@ -3,6 +3,7 @@
 # 👋 Hi, I’m Dharun Kumar
 
 🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
+🎓 B.Tech in Electronics and Communication Engineering @ **Amrita University** (2020–2024)  
 
 ---
 ## 🔍 Interests
