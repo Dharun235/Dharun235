@@ -15,10 +15,15 @@
 ## 🔧 Skills
 `ROS` • `Python` • `C++` • `Embedded Systems` • `Signal Processing` • `Control Systems`
 
+---
 
-🤖🌍🚀
-Feel free to contact me through Linkedin[https://www.linkedin.com/in/dharun-kumar20/],  mail[dharun.official.01@gmail.com], X[https://x.com/dharun369]
+## 📬 Get in Touch
 
+I'm always open to connecting, collaborating, or just chatting about tech, AI, and innovation!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dharun-kumar20/)  
+- 📧 [Email](mailto:dharun.official.01@gmail.com)  
+- 🐦 [X (Twitter)](https://x.com/dharun369)
 <br><br>
 
 # 🧰 &nbsp;My toolbox
