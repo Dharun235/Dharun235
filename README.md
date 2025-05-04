@@ -6,7 +6,7 @@
 ⚙️ Exploring the future of **Autonomous Systems**, **AI**, and **Robotics**
 
 - 🤖 Research Assistant @ Chalmers – Human-Machine Interaction & Robotic Systems  
-- 🚗 Experience with AMR robots during internship & open-source AI contributions  
+- 🚗 Experience with robots - AMR, insectoid, humanoid during internship. RA, projects & open-source AI contributions  
 - 💡 EdTech startup idea selected by **Microsoft for Startups**
 
 ## 🔧 Skills
