@@ -23,10 +23,12 @@
 
 ### 🌟 Open Source Contribution  
 - **GSSOC'EXTD 2024** – Contributed to various open-source projects, improving code quality and functionality in the open-source community.
+
 ---
 
 ## 🔧 Skills
 `ROS` • `Python` • `C++` • `Embedded Systems` • `Signal Processing` • `Control Systems`
+
 ---
 
 ## 📬 Get in Touch
