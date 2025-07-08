@@ -11,6 +11,7 @@
 
 ---
 ## Experience 
+- 🚘 Intern at Resolve EV - Wokring on embedded systems for quick charging module.
 - 🤖 Research Assistant @ Chalmers – Human-Machine Interaction & Robotic Systems  
 - 🚗 Experience with robots - AMR, insectoid, humanoid during internship, RA, projects & open-source AI contributions  
 - 💡 EdTech startup idea selected by **Microsoft for Startups**
