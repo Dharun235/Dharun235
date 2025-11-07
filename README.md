@@ -7,7 +7,7 @@
 
 ---
 ## 🔍 Interests
-- Autonomous Systems and EdTech
+- Autonomous Systems and Education
 
 ---
 ## Experience 
@@ -19,9 +19,7 @@
 ## 🚀 Featured Projects
 - 🧤 Smart Hand Wearable Aid for Speech Impaired  
 - 📡 Wireless ECG Monitoring System for Remote Healthcare  
-- 🌿 Real-Time Plant Disease Detection App  
-- 🕊️ Flapping-Wing Micro Air Vehicle (FW-MAV)  
-- 🤖 WhatsApp-Based Career Advisor Bot  
+- 🕊️ Flapping-Wing Micro Air Vehicle (FW-MAV) 
 
 ### 🌟 Open Source Contribution  
 - **GSSOC'EXTD 2024** – Contributed to various open-source projects, improving code quality and functionality in the open-source community.
