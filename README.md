@@ -7,29 +7,13 @@
 
 ---
 ## 🔍 Interests
-- Autonomous Systems and Education
+- Machine learning
+- Computer vision
+- Embedded systems
+- Control systems
+- Sensor Fusion
+- Mechatronics 
 
----
-## Experience 
-- 🚘 Intern at Resolve EV - Wokring on embedded systems for quick charging module.
-- 🤖 Research Assistant @ Chalmers – Human-Machine Interaction & Robotic Systems  
-- 🚗 Experience with robots - AMR, insectoid, humanoid during internship, RA, projects & open-source AI contributions  
-- 💡 EdTech startup idea selected by **Microsoft for Startups**
-
-## 🚀 Featured Projects
-- 🧤 Smart Hand Wearable Aid for Speech Impaired  
-- 📡 Wireless ECG Monitoring System for Remote Healthcare  
-- 🕊️ Flapping-Wing Micro Air Vehicle (FW-MAV) 
-
-### 🌟 Open Source Contribution  
-- **GSSOC'EXTD 2024** – Contributed to various open-source projects, improving code quality and functionality in the open-source community.
-
----
-
-## 🔧 Skills
-`ROS` • `Python` • `C++` • `Embedded Systems` • `Signal Processing` • `Control Systems`
-
----
 
 ## 📬 Get in Touch
 
