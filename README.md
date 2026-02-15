@@ -28,7 +28,7 @@ He’s open to summer internships, graduate roles and open source projects.
 - Miscellaneous:  CMake, Git, GitHub Actions, Docker, RTOS, Linux, JSON, ROS2, PlatformIO
 - ML Frameworks and libraries: Langchain, PyTorch, TensorFlow, OpenCV, Praquet, FiftyOne, CVAT, Dewesoft
 - Testing: Pytest, Google test
-- API: REST, FastAPI
+- API and hosting: REST, FastAPI, Flask
 
 ## Other links that are relevant
 - [Kaggle](https://www.kaggle.com/dharun235)
