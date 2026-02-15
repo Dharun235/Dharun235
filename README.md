@@ -26,7 +26,8 @@ He’s open to summer internships, graduate roles and open source projects.
 - Programming Languages: Python, C++/ C, MATLAB, Simulink, Simscape
 - Database:  MongoDB, Elasticsearch, MySQL
 - Miscellaneous:  CMake, Git, GitHub Actions, Docker, RTOS, Linux, JSON, ROS2, PlatformIO
-- ML Frameworks and libraries: Langchain, PyTorch, TensorFlow, OpenCV, Praquet, FiftyOne, CVAT, Dewesoft
+- ML libraries: Langchain, PyTorch, TensorFlow, OpenCV
+- Data Engineering: Praquet, FiftyOne, CVAT, Dewesoft
 - Testing: Pytest, Google test
 - API and hosting: REST, FastAPI, Flask
 
