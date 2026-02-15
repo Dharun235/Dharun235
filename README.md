@@ -13,8 +13,8 @@ Outside of tech, Dharun trains in Jiujitsu and enjoys teaching special kids adva
 He’s open to summer internships, graduate roles and open source projects.
 
 ## Education
-🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
-🎓 B.Tech in Electronics and Communication Engineering @ **Amrita University** (2020–2024)  
+- MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
+- B.Tech in Electronics and Communication Engineering @ **Amrita University** (2020–2024)  
 
 ## Interests
 - Machine learning
