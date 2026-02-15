@@ -1,6 +1,7 @@
 
 <br><br>
 # 👋 Hi, I’m Dharun Kumar
+
 I am Dharunkumar Senthilkumar, a master’s student at Chalmers University of Technology, studying Systems, Control, and Mechatronics. He’s interested in software side of autonomous systems and how smart machines can learn and adapt in the real world.
 
 He specializes in area of machine learning, computer vision, control algorithms and embedded programming, and has worked in few important tools like ROS2, C, C++ and Python through projects, coursework, internship, research positions and competitions. He is also interested in core software development practices and testing.
@@ -11,7 +12,6 @@ Outside of tech, Dharun trains in Jiujitsu and enjoys teaching special kids adva
 
 He’s open to summer internships, graduate roles and open source projects.
 
----
 ## Education
 🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
 🎓 B.Tech in Electronics and Communication Engineering @ **Amrita University** (2020–2024)  
