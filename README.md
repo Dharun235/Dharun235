@@ -34,6 +34,8 @@ He’s open to summer internships, graduate roles and open source projects.
 ## Other links that are relevant
 - [Kaggle](https://www.kaggle.com/dharun235)
 - [NeetCode](https://neetcode.io/profile)
+- [Coursera](https://www.coursera.org/user/7bda036d88dcd05d18963ee9a333096f)
+
 ## Get in Touch
 
 I'm always open to connecting, collaborating, or just chatting about deep tech and control systems!
