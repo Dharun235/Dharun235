@@ -10,6 +10,7 @@ He also helps with teaching and has built tools to support people with disabilit
 Outside of tech, Dharun trains in Jiujitsu and enjoys teaching special kids advanced math. 
 
 He’s open to summer internships, graduate roles and open source projects.
+
 ---
 ## Education
 🎓 MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
@@ -21,7 +22,17 @@ He’s open to summer internships, graduate roles and open source projects.
 - Embedded systems
 - Control systems
 
+## Skillset 
+Programming Languages: Python, C++/ C, MATLAB, Simulink, Simscape
+Database:  MongoDB, Elasticsearch, MySQL
+Miscellaneous:  CMake, Git, GitHub Actions, Docker, RTOS, Linux, JSON, ROS2, PlatformIO
+ML Frameworks and libraries: Langchain, PyTorch, TensorFlow, OpenCV, Praquet, FiftyOne, CVAT, Dewesoft
+Testing: Pytest, Google test
+API: REST, FastAPI
 
+## Other links that are relevant
+- [Kaggle](https://www.kaggle.com/dharun235)
+- [NeetCode](https://neetcode.io/profile)
 ## Get in Touch
 
 I'm always open to connecting, collaborating, or just chatting about deep tech and control systems!
@@ -31,7 +42,4 @@ I'm always open to connecting, collaborating, or just chatting about deep tech a
 -  [X (Twitter)](https://x.com/dharun369)
 <br><br>
 
-## Other links that are relevant
-- [Kaggle](https://www.kaggle.com/dharun235)
-- [NeetCode](https://neetcode.io/profile)
 ---
