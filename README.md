@@ -23,12 +23,12 @@ He’s open to summer internships, graduate roles and open source projects.
 - Control systems
 
 ## Skillset 
-Programming Languages: Python, C++/ C, MATLAB, Simulink, Simscape
-Database:  MongoDB, Elasticsearch, MySQL
-Miscellaneous:  CMake, Git, GitHub Actions, Docker, RTOS, Linux, JSON, ROS2, PlatformIO
-ML Frameworks and libraries: Langchain, PyTorch, TensorFlow, OpenCV, Praquet, FiftyOne, CVAT, Dewesoft
-Testing: Pytest, Google test
-API: REST, FastAPI
+- Programming Languages: Python, C++/ C, MATLAB, Simulink, Simscape
+- Database:  MongoDB, Elasticsearch, MySQL
+- Miscellaneous:  CMake, Git, GitHub Actions, Docker, RTOS, Linux, JSON, ROS2, PlatformIO
+- ML Frameworks and libraries: Langchain, PyTorch, TensorFlow, OpenCV, Praquet, FiftyOne, CVAT, Dewesoft
+- Testing: Pytest, Google test
+- API: REST, FastAPI
 
 ## Other links that are relevant
 - [Kaggle](https://www.kaggle.com/dharun235)
