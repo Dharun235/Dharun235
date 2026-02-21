@@ -2,15 +2,25 @@
 <br><br>
 # 👋 Hi, I’m Dharun Kumar
 
-I am Dharunkumar Senthilkumar, a master’s student at Chalmers University of Technology, studying Systems, Control, and Mechatronics. He’s interested in software side of autonomous systems and how smart machines can learn and adapt in the real world.
+I'm a Master's student in Systems, Control and Mechatronics (Autonomous Systems track) at Chalmers University of Technology, passionate about the software side of autonomous systems—how smart machines learn, adapt, and interact in real-world environments.
 
-He specializes in area of machine learning, computer vision, control algorithms and embedded programming, and has worked in few important tools like ROS2, C, C++ and Python through projects, coursework, internship, research positions and competitions. He is also interested in core software development practices and testing.
+I specialize in machine learning, computer vision, control algorithms, and embedded programming. Through projects, coursework, internships, research roles, and competitions, I've gained hands-on experience with tools like PyTorch, OpenCV, ROS2, C/C++, Python, FreeRTOS, STM32, Docker, GitHub Actions, and Prefect. Highlights include:
 
-He also helps with teaching and has built tools to support people with disabilities.
+- Developing data-driven models for welding arc prediction at ESAB (thesis: computer vision annotation to camera-free time-series forecasting, improving process control).
+- Building flight controller software for EUROC 2026 rocket (CAESAR: CI/CD, state machines, GUI).
+- Fusing LiDAR/camera data with Kalman filters (Udacity Nanodegree: Waymo dataset tracking).
+- Integrating LLMs with robots for HRI studies (Chalmers: Google Gemini, proxemics analysis).
+- Boosting robot navigation success from 34% to 56% via adversarial RL and MPC.
 
-Outside of tech, Dharun trains in Jiujitsu and enjoys teaching special kids advanced math. 
+I'm also keen on software best practices, testing, and building inclusive tools—like those supporting people with disabilities through robotics.
 
-He’s open to summer internships, graduate roles and open source projects.
+Beyond tech, I volunteer as an Intize mentor teaching gifted students advanced math, and train in Swedish Jiu-Jitsu for discipline and fitness.
+
+Open to summer internships, entry-level/graduate roles in embedded systems, ML, or control engineering, and open-source contributions. Eligible for Swedish post-study work permit (available full-time summer 2026).
+
+Let's connect:
+📧 dharun.official.01@gmail.com
+LinkedIn: https://www.linkedin.com/in/dharun-kumar20/
 
 ## Education
 - MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
