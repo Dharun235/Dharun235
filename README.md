@@ -19,8 +19,8 @@ Beyond tech, I volunteer as an Intize mentor teaching gifted students advanced m
 Open to summer internships, entry-level/graduate roles in embedded systems, ML, or control engineering, and open-source contributions. Eligible for Swedish post-study work permit (available full-time summer 2026).
 
 Let's connect:
-📧 dharun.official.01@gmail.com
-LinkedIn: https://www.linkedin.com/in/dharun-kumar20/
+- 📧 dharun.official.01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dharun-kumar20/
 
 ## Education
 - MSc in Systems, Control & Mechatronics @ **Chalmers University** (2024–2026)  
