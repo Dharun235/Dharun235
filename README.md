@@ -47,7 +47,7 @@ Open to summer internships, entry-level/graduate roles in embedded systems, ML, 
 I'm always open to connecting, collaborating, or just chatting about deep tech and control systems!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dharun-kumar20/)  
-- 📧 [Email](mailto:dharun.official.01@gmail.com)  
+- 📧 [Email](mailto:dharunkumar.senthilkumar9@gmail.com)  
 -  [X (Twitter)](https://x.com/dharun369)
 <br><br>
 
