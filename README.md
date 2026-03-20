@@ -28,12 +28,6 @@ Open to summer internships, entry-level/graduate roles and open-source contribut
 - Testing: Pytest, Google test, GMock
 - API and hosting: FastAPI, Flask
 
-## Other links that are relevant
-- [Kaggle](https://www.kaggle.com/dharun235)
-- [HuggingFace](https://huggingface.co/Dharunkumar9)
-- [NeetCode](https://neetcode.io/profile)
-- [Coursera](https://www.coursera.org/user/7bda036d88dcd05d18963ee9a333096f)
-
 ## Get in Touch
 dharunkumar.senthilkumar9@gmail.com
 I'm always open to connecting, collaborating, or just chatting about deep tech and control systems!
